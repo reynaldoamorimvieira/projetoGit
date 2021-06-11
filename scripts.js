@@ -1,2 +1,2 @@
 var boolean = true;
-var texto = "string";
+var numero = 3;
