@@ -1,3 +1,3 @@
 var boolean = true;
 var funcao = () => console.log();
-var texto = "palavra";
+var texto = "palavra dois";
